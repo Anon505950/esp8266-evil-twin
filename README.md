@@ -19,4 +19,4 @@ Second, set up the portal as well as a deauther and target a specific ssid.
 Third, wait! People should start handing there wifi password right over to you!
 
 # Disclamer
-This script is for educational purposes only, don't hack anybody that didn't give you explicit permission to hack them. I am not responsible for any damages or repercussions that you may face using this code! 
+***This script is for educational purposes only, don't hack anybody that didn't give you explicit permission to hack them. I am not responsible for any damages or repercussions that you may face using this code!***
